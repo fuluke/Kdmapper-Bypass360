@@ -1,3 +1,3 @@
 # Kdmapper-Bypass360
-过360拦截加载无驱动签名
->>>>原项目https://github.com/TheCruZ/kdmapper
+加载无驱动签名,360不拦截
+>>>>原项目https://github.com/TheCruZ/kdmapper (不能过360)
